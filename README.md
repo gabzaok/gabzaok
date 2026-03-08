@@ -61,9 +61,9 @@ Tela de login moderna com foco em UI/UX.
 
 <p align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabzaok&show_icons=true&theme=rose_pine"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabzaok&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaok&layout=compact&theme=rose_pine"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabzaok&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </p>
 
@@ -73,7 +73,7 @@ Tela de login moderna com foco em UI/UX.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabzaok&theme=rose-pine&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabzaok&show_icons=true&theme=rose_pine&cache_seconds=1800"/>
 
 </p>
 
@@ -90,13 +90,7 @@ Tela de login moderna com foco em UI/UX.
 </p>
 </p>
 
----
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/gabzaok/gabzaok/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
