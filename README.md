@@ -69,15 +69,7 @@ Tela de login moderna com foco em UI/UX.
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabzaok&show_icons=true&theme=rose_pine&cache_seconds=1800"/>
-
-</p>
-
----
 
 <h2 align="center">🌸 Connect with me</h2>
 
